@@ -16,7 +16,7 @@
     "@vueuse/head": "^2.0.0",
     "axios": "^1.7.7",
     "core-js": "^3.38.1",
-    "element-plus": "^2.8.2",
+    "element-plus": "^2.11.0",
     "http-proxy-middleware": "^3.0.2",
     "image-conversion": "^2.1.1",
     "jszip": "^3.10.1",
